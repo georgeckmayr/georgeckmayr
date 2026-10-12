@@ -1,16 +1,26 @@
-## Hi there 👋
+# Georg Eckmayr — academic website starter
 
-<!--
-**georgeckmayr/georgeckmayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A responsive, single-page static website with a black background and white text.
 
-Here are some ideas to get you started:
+## Preview locally
+Open `index.html` in a browser. No build tools or dependencies are required.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publish with GitHub Pages
+1. Create/sign in to a GitHub account.
+2. Create a repository (for a user site, name it `YOUR-USERNAME.github.io`).
+3. Upload `index.html` and this README.
+4. In the repository, open **Settings → Pages** and choose the branch/folder to publish.
+5. GitHub will provide the public URL.
+
+## Before publishing
+- Review all biographical and bibliographic details.
+- Update course information each semester.
+- Add or replace links where you have preferred permanent publication URLs.
+- This is a starter implementation, not an official University of Vienna website.
+- The page intentionally omits contact/policies, travel, collaborative-project listings, interactive tools, AI views, and sections for books, former students, postdoctoral mentees, and editorial roles.
+
+## External links included
+- Main website: https://georgeckmayr.net/
+- Selected Works portfolio PDF: https://www.surfacetotems.net/Georg_Eckmayr%E2%80%93Selected_Works_0_3.pdf
+- RAW MATERIAL & DATA gestures project PDF: https://www.surfacetotems.net/RAW_material&DATA%20gestures_online_small.pdf
+- University of Vienna profile: https://ufind.univie.ac.at/de/person.html?id=102464
